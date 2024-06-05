@@ -2,7 +2,7 @@
 title: "Exposure effects in the public sector: Evidence from teacher hiring in Peru"
 excerpt: ""
 collection: portfolio
-permalink: "/portfolio/portfolio-1.md"
+permalink: "/portfolio"
 
 ---
 
