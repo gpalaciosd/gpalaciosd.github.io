@@ -2,7 +2,7 @@
 title: "Exploring Factors Influencing Teacher Retention: Evidence from Peru"
 excerpt: ""
 collection: portfolio
-permalink: "/portfolio"
+permalink: "/portfolio/paper2"
 
 ---
 

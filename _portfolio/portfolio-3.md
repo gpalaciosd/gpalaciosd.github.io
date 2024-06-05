@@ -2,7 +2,7 @@
 title: "Breaking (Down) News: Using News Data for Economic Forecasting in Peru"
 excerpt: ""
 collection: portfolio
-permalink: "/portfolio"
+permalink: "/portfolio/paper3"
 
 ---
 
