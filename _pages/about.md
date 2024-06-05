@@ -16,4 +16,6 @@ Prior to my Ph.D., I was a Research Fellow at Evidence for Policy Design (EPoD),
 
 My professional experience also includes over a year as an Economic Specialist for the Department of Economic Indicators at the Central Reserve Bank of Peru. I hold a Master's in Economics from the University of British Columbia (UBC) and a Bachelor’s in Economics from Universidad de Piura.
 
+This summer, I will be joining the Menlo Park office of Analysis Group as an Associate, further applying my expertise in economics and applied data science.
+
 In my spare time, I enjoy biking, reading sci-fi stories, and listening to and singing along with pop music. Recently, I’ve been learning piano and love attempting to play my favorite songs.
